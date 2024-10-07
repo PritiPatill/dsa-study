@@ -40,4 +40,4 @@ class Solution {
     }
 }
 
-// Time complexity = O(log n)
+// Time complexity = O(sqrt(n))
